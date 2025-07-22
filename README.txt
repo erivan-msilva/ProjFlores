@@ -14,3 +14,4 @@ CSS3 para estilização e responsividade, utilizando técnicas modernas de desig
 JavaScript para interatividade, incluindo animações e efeitos de transição, aprimorando a experiência do usuário.
 Objetivo do Projeto
 Este site foi projetado para ser visualmente agradável e intuitivo, com o intuito de inspirar e educar o público sobre o mundo da floricultura. É uma plataforma onde Eloisa pode compartilhar seu conhecimento e criatividade, aproximando os visitantes do universo das flores.
+https://erivan-msilva.github.io/ProjFlores/
